@@ -1,0 +1,9 @@
+server:
+  port: 8080
+cache:
+  timeToLive: 5s
+  maxSize: 20
+
+client:
+  host: localhost
+  port: 7000
